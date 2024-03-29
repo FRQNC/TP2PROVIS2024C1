@@ -10,4 +10,4 @@ Kemudian terdapat bagian "Informasi Umum" dimana terdapat beberapa button/menu y
 Kemudian bagian terakhir "Pengaturan Akun" terdapat button/menu Ganti Password dan Keluar.
 
 # Dokumentasi
-![SS Profile Page]('./Screenshots/SS_Profile_Page.png')
+![SS Profile Page](./Screenshots/SS_Profile_Page.png)
