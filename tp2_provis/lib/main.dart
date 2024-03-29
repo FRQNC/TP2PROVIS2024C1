@@ -147,7 +147,7 @@ class ProfilePage extends StatelessWidget {
                                 color: textColor,
                                 fontSize: 14.0,
                                 fontWeight: FontWeight.bold,
-                                letterSpacing: 2.4)),
+                                letterSpacing: 1.6)),
                         const SizedBox(height: 8.0),
                         Container(
                           padding: const EdgeInsets.symmetric(horizontal: 10),
@@ -243,15 +243,15 @@ class ProfilePage extends StatelessWidget {
                     ),
                     const SizedBox(height: 20.0),
                     Column(
-                      // Preferensi
+                      // Pengaturan Akun
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: <Widget>[
-                        Text("Preferensi",
+                        Text("Pengaturan Akun",
                             style: TextStyle(
                                 color: textColor,
                                 fontSize: 14.0,
                                 fontWeight: FontWeight.bold,
-                                letterSpacing: 2.4)),
+                                letterSpacing: 1.6)),
                         const SizedBox(height: 7.0),
                         Container(
                           padding: const EdgeInsets.symmetric(horizontal: 10),
